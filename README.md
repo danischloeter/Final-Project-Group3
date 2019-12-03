@@ -8,3 +8,5 @@ You will find three folders in this repo:
 <p><b>Final-Group-Project-Report</b>: it contains a single PDF file with the final report describing in details the dataset chosen, network structure, parameters and optimizers, and conclusions.</p>
 <p><b>Final-Group-Presentation</b>: it contains a single PDF file with a brief presentation of the project given on Tuesday, December 3rd</p>
 <p><b>Code</b>: it contains the py files with the final codes and a README.md which explains how to run those files</p>
+<p><b>Daniela-Schloeter-individual-project</b>: it contains an Individual-Final-Project-Report folder with a single PDF file with the final individual report  and a Code folder with a .py file that contains the chunks of code contributed to the project. 
+<p><b>Guillerma-Sutter-Schneider-individual-project</b>: it contains an Individual-Final-Project-Report folder with a single PDF file with the final individual report  and a Code folder with a .py file that contains the chunks of code contributed to the project. 
